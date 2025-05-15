@@ -1,6 +1,6 @@
 {
   "name": "pibb",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Private Institutional Bulletin Board - I2I Platform for Private Transactions",
   "main": "cli/index.js",
   "type": "module",

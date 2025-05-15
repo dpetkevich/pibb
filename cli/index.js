@@ -72,7 +72,7 @@ async function openMail(type) {
 program
   .name('pibb')
   .description('Private Institutional Bulletin Board CLI')
-  .version('1.0.0');
+  .version('1.0.1');
 
 program
   .command('apply')
