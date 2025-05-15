@@ -21,12 +21,12 @@
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/yourusername/pibb.git"
+    "url": "git+https://github.com/dpetkevich/pibb.git"
   },
   "bugs": {
-    "url": "https://github.com/yourusername/pibb/issues"
+    "url": "https://github.com/dpetkevich/pibb/issues"
   },
-  "homepage": "https://github.com/yourusername/pibb#readme",
+  "homepage": "https://github.com/dpetkevich/pibb#readme",
   "dependencies": {
     "commander": "^11.0.0",
     "open": "^9.0.0"
