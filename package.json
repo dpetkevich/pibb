@@ -1,0 +1,34 @@
+{
+  "name": "pibb",
+  "version": "1.0.0",
+  "description": "Private Institutional Bulletin Board - I2I Platform for Private Transactions",
+  "main": "cli/index.js",
+  "type": "module",
+  "bin": {
+    "pibb": "cli/index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "private",
+    "institutional",
+    "bulletin-board",
+    "i2i",
+    "transactions"
+  ],
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yourusername/pibb.git"
+  },
+  "bugs": {
+    "url": "https://github.com/yourusername/pibb/issues"
+  },
+  "homepage": "https://github.com/yourusername/pibb#readme",
+  "dependencies": {
+    "commander": "^11.0.0",
+    "open": "^9.0.0"
+  }
+} 

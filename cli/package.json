@@ -1,0 +1,15 @@
+{
+  "name": "pibb-cli",
+  "version": "1.0.0",
+  "description": "CLI for Private Institutional Bulletin Board (PIBB)",
+  "main": "index.js",
+  "bin": {
+    "pibb": "index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^11.0.0",
+    "open": "^9.0.0"
+  }
+} 
